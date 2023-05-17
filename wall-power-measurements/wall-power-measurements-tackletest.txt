@@ -1,0 +1,17 @@
+Average of AllPathsFromSourceToTarget: 94504.98
+Average of Anagrams: 94473.43
+Average of BinaryTree: 95243.20
+Average of Blowfish: 94909.04
+Average of CursorLinkedList: 94492.12
+Average of DES: 94352.45
+Average of FFT: 92973.66
+Average of FibonacciHeap: 94749.33
+Average of HorspoolSearch: 93543.71
+Average of LeftistHeap: 95295.77
+Average of LFUCache: 95351.63
+Average of LRUCache: 94893.37
+Average of MazeRecursion: 95676.08
+Average of SinglyLinkedList: 93384.66
+Average of StrassenMatrixMultiplication: 94348.18
+
+Average of tackletest tool: 94546.11

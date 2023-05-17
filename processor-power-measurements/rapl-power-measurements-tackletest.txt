@@ -1,0 +1,17 @@
+RAPL - Average of AllPathsFromSourceToTarget: 38.75
+RAPL - Average of Anagrams: 38.02
+RAPL - Average of BinaryTree: 39.04
+RAPL - Average of Blowfish: 39.31
+RAPL - Average of CursorLinkedList: 38.55
+RAPL - Average of DES: 39.12
+RAPL - Average of FFT: 37.91
+RAPL - Average of FibonacciHeap: 39.44
+RAPL - Average of HorspoolSearch: 37.96
+RAPL - Average of LeftistHeap: 39.13
+RAPL - Average of LFUCache: 39.69
+RAPL - Average of LRUCache: 39.26
+RAPL - Average of MazeRecursion: 40.06
+RAPL - Average of SinglyLinkedList: 38.17
+RAPL - Average of StrassenMatrixMultiplication: 40.04
+
+Average of tackletest tool: 38.96
